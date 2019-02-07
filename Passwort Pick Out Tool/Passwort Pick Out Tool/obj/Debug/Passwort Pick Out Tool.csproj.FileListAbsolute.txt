@@ -1,0 +1,10 @@
+C:\Users\f.isfarca\Desktop\Passwort Pick Out Tool\Passwort Pick Out Tool\bin\Debug\Passwort Pick Out Tool.exe.config
+C:\Users\f.isfarca\Desktop\Passwort Pick Out Tool\Passwort Pick Out Tool\bin\Debug\Passwort Pick Out Tool.exe
+C:\Users\f.isfarca\Desktop\Passwort Pick Out Tool\Passwort Pick Out Tool\bin\Debug\Passwort Pick Out Tool.pdb
+C:\Users\f.isfarca\Desktop\Passwort Pick Out Tool\Passwort Pick Out Tool\obj\Debug\Passwort_Pick_Out_Tool.FormBenutzerkontensteuerung.resources
+C:\Users\f.isfarca\Desktop\Passwort Pick Out Tool\Passwort Pick Out Tool\obj\Debug\Passwort_Pick_Out_Tool.Properties.Resources.resources
+C:\Users\f.isfarca\Desktop\Passwort Pick Out Tool\Passwort Pick Out Tool\obj\Debug\Passwort Pick Out Tool.csproj.GenerateResource.Cache
+C:\Users\f.isfarca\Desktop\Passwort Pick Out Tool\Passwort Pick Out Tool\obj\Debug\Passwort Pick Out Tool.csproj.CoreCompileInputs.cache
+C:\Users\f.isfarca\Desktop\Passwort Pick Out Tool\Passwort Pick Out Tool\obj\Debug\Passwort Pick Out Tool.exe
+C:\Users\f.isfarca\Desktop\Passwort Pick Out Tool\Passwort Pick Out Tool\obj\Debug\Passwort Pick Out Tool.pdb
+C:\Users\f.isfarca\Desktop\Passwort Pick Out Tool\Passwort Pick Out Tool\obj\Debug\Passwort Pick Out Tool.csprojAssemblyReference.cache
